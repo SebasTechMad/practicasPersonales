@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.div-table{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.custom-table{
+    background-color: rgb(107, 160, 207);
+    border: black solid 2px;
+}
+
+td,th{
+    border: black solid 2px;
+}
