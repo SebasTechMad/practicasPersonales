@@ -1,0 +1,19 @@
+@import url('./../node_modules/bootstrap/dist/css/bootstrap.min.css');
+
+html,body,main{
+  height: 100dvh;
+  margin: 0px;
+}
+
+
+.formulario{
+  padding: 1rem;
+}
+
+
+.div-formulario{
+  height: 100dvh;
+}
+
+
+
